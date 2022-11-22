@@ -16,3 +16,5 @@ class App
 }
 let app =new App();
 app.runApplication();
+
+console.log(runApplication)
