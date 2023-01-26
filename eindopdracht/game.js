@@ -306,7 +306,7 @@ class Text {
     runApplication() {
         g.font = "50px Arial";
         g.fillStyle = "gold";
-        g.fillText("Merry Xmas 2023", 750, 200);
+        g.fillText("Merry chrismas and a happy new year !! 2023/2024", 370, 200);
     }
 }
 
